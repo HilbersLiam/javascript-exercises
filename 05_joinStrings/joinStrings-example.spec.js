@@ -1,4 +1,3 @@
-const values = require('./joinStrings-example')
 
 describe('joinStrings-example', () => {
   test('birthYear is 1947', () => {
